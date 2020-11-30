@@ -1,9 +1,10 @@
 ---
-sip: SIP-4
+sip: 4
 title: 新增VLX/USDT交易对提案
 status: Proposed
-author: Fudezl (@Fudezl)
-created: 2020-11-29
+author:  Fudezl (@Fudezl)
+
+created: 2020-11-28
 ---
 
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that a SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
@@ -19,7 +20,7 @@ created: 2020-11-29
 
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the SIP is implemented, not *why* it should be done or *how* it will be done. If the SIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
 
-目前Symblox 协议上VLX总交易额突破11亿枚（转入转出），因为Symblox 协议上没有VLX/USDT对，导致社区用户需在其余交易所购买/转入Symblox协议再进行流动性挖矿，这样的体验，一较为麻烦；其次一些中心华交易所流动性不强，不易成交；三是给别的交易所导流。因此，Symblox社区应该将这部分流量转变成自己的，我们有流量，对VLX及SYX将形成绝对优势定价权。
+目前Symblox 协议上VLX总交易额突破11亿枚（转入转出），因为Symblox 协议上没有VLX/USDT对，导致社区用户需在其余交易所购买/转入Symblox协议再进行流动性挖矿，这样的体验，一较为麻烦；其次一些中心化交易所流动性不强，不易成交；三是给别的交易所导流。因此，Symblox社区应该将这部分流量转变成自己的，我们有流量，对VLX及SYX将形成绝对优势定价权。
  
 为鼓励VLX原始持有者对VLX/USDT做出的流动性贡献，社区将对该交易对矿池进行一定比例的SYX代币奖励。
 
@@ -57,7 +58,7 @@ created: 2020-11-29
 |  ----  | :----:  | :----: |
 | VLX 种子池 | 5% | 1% |
 | VLX/SYX | 65% | 49% |
-| USDT/SYX | 30% | - |
+| USDT/SYX | 30% | 30% |
 | VLX/USDT | - | 20% |
 
 ### 原由 Rationale
